@@ -8,9 +8,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Background:** Transitioned from a Science background (B.Sc. Botany) into Full-Stack Software Development through intensive hands-on building, bootcamp training, and internship experience.
-- 💻 **Core Focus:** Building responsive UI components, scalable RESTful APIs, and end-to-end full-stack applications using the MERN stack and Next.js.
-- ⚙️ **DevOps & Quality:** Passionate about clean code, type safety with TypeScript, unit testing with Vitest, and automating builds via Docker and GitHub Actions.
+- 🎓 **Entry-Level Full Stack Developer:** Recent graduate with a B.Sc. in Botany who successfully transitioned into software development through structured training and hands-on project experience.
+- 💻 **Tech Stack Focus:** Specializing in building modern web applications with React.js, Next.js, TypeScript, Node.js, and MongoDB.
+- 🛠️ **Practical Experience:** Built production-style full-stack applications (TechCart, MovieNest) and completed a Web Development Internship strengthening my core HTML, CSS, and UI implementation skills.
+- 🎯 **Career Goal:** Eager to launch my career as a Full Stack / Frontend Developer in a fast-paced software team where I can contribute code, learn from senior engineers, and build scalable software.
+- ⚡ **Fun Fact:** Driven by self-learning, rapid adaptability, and continuous skill upgrading (AI-Augmented development, Docker, and CI/CD).
 
 ---
 
