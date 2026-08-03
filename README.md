@@ -38,7 +38,7 @@
 * **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Redux Toolkit, RTK Query, Node.js, Express.js, MongoDB
 * **Highlights:** 15+ reusable UI components, RESTful API design, state management with RTK Query, unit testing with Vitest, and containerized deployment with Docker & GitHub Actions.
 
-#### 🎬 [MovieNest — Movie Discovery Application](https://github.com/Pravin671231/MovieNest)
+#### 🎬 [MovieNest — Movie Discovery Application](https://github.com/Pravin671231/movies)
 * **Tech Stack:** React.js, TypeScript, Tailwind CSS, TMDb API
 * **Highlights:** Responsive movie search and category filter app using third-party API integration and custom React hooks.
 
