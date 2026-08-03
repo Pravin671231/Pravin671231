@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Entry-Level Full Stack Developer:** Recent graduate with a B.Sc. in Botany who successfully transitioned into software development through structured training and hands-on project experience.
-- 💻 **Tech Stack Focus:** Specializing in building modern web applications with React.js, Next.js, TypeScript, Node.js, and MongoDB.
-- 🛠️ **Practical Experience:** Built production-style full-stack applications (TechCart, MovieNest) and completed a Web Development Internship strengthening my core HTML, CSS, and UI implementation skills.
-- 🎯 **Career Goal:** Eager to launch my career as a Full Stack / Frontend Developer in a fast-paced software team where I can contribute code, learn from senior engineers, and build scalable software.
+- 💻 **Full Stack Developer (Fresher):** Specializing in building scalable, responsive web applications using React.js, Next.js, TypeScript, Node.js, and MongoDB.
+- ⚙️ **End-to-End Development:** Skilled across the entire stack — from crafting modern UI components and managing complex frontend state (Redux Toolkit, RTK Query) to designing RESTful APIs and database schemas.
+- 🧪 **Code Quality & Best Practices:** Dedicated to writing clean, maintainable code, implementing type safety with TypeScript, and maintaining test reliability with Vitest.
+- 🎯 **Career Focus:** Seeking an entry-level Full Stack or Frontend Developer role to collaborate with engineering teams, deliver clean code, and drive real user impact.
 - ⚡ **Fun Fact:** Driven by self-learning, rapid adaptability, and continuous skill upgrading (AI-Augmented development, Docker, and CI/CD).
 
 ---
