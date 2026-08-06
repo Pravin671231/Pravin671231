@@ -27,7 +27,7 @@
 `Node.js` `Express.js` `REST APIs` `MongoDB` `Mongoose` `MySQL`
 
 **Tools & DevOps:**  
-`Git` `GitHub` `Postman` `Vitest` `Docker` `GitHub Actions (CI/CD)` `Netlify` `Render`
+`Git` `GitHub` `Postman` `Vitest` `Docker` `GitHub Actions (CI/CD)` `Vercel` `Render`
 
 ---
 
