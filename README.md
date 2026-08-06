@@ -1,14 +1,13 @@
 # Hi there, I'm Pravinkumar K 👋
-### Full Stack Developer (Fresher) | React.js | Next.js | TypeScript | Node.js
+### Full Stack Developer | React.js | Next.js | TypeScript | Node.js
 
-📍 **Location:** Coimbatore, India  
 📧 **Email:** pravinkumar671231@gmail.com  
 💼 **GitHub:** [github.com/Pravin671231](https://github.com/Pravin671231)  
 
 ---
 
 ### 🚀 About Me
-- 💻 **Full Stack Developer (Fresher):** Specializing in building scalable, responsive web applications using React.js, Next.js, TypeScript, Node.js, and MongoDB.
+- 💻 **Full Stack Developer :** Specializing in building scalable, responsive web applications using React.js, Next.js, TypeScript, Node.js, and MongoDB.
 - ⚙️ **End-to-End Development:** Skilled across the entire stack — from crafting modern UI components and managing complex frontend state (Redux Toolkit, RTK Query) to designing RESTful APIs and database schemas.
 - 🧪 **Code Quality & Best Practices:** Dedicated to writing clean, maintainable code, implementing type safety with TypeScript, and maintaining test reliability with Vitest.
 - 🎯 **Career Focus:** Seeking an entry-level Full Stack or Frontend Developer role to collaborate with engineering teams, deliver clean code, and drive real user impact.
@@ -47,4 +46,4 @@
 ### 📜 Certifications
 - **Certified AI-Augmented Development** — LearnzConnect
 - **Certified MERN Stack Developer** — IDM TechPark
-- **Certified Java Full Stack Developer** — Refinement Solution
+
